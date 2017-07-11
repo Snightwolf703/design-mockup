@@ -1,0 +1,110 @@
+html{
+  max-width:100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+   box-sizing: border-box;
+   font-size: 10px;
+   line-height: 1.42857143;
+
+
+}
+
+.udacity{
+  max-width: 100%;
+  width:35%;
+  height:35%;
+  margin:auto auto;
+  margin-top: 10%;
+  margin-left: 10%;
+}
+.name{
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 70px;
+  font-weight: lighter;
+  margin-top: 10%;
+  margin-right: 10%;
+  color: #2d3c49
+}
+
+.Job{
+  font-size:20px;
+  margin-right: 10%;
+  color: #2d3c49
+
+}
+.gray{
+  border:1px solid #7d97ad;
+  margin-left: 11%;
+  margin-right: 6%;
+}
+
+.meta{
+  max-width:100%;
+  width:90%;
+  height: auto;
+  margin-left:100px;
+
+
+}
+
+.feat{
+  margin-top: 6%;
+  max-width: 100%;
+  margin-left: 15%;
+  color: #7d97ad;
+font-family: 'Raleway', sans-serif;
+}
+
+
+.flower{
+  width: 80.333%;
+  height: auto;
+  margin-left:23%;
+  color: #2d3c49;
+}
+
+.app{
+  width: 80.333%;
+  height: auto;
+  margin-left:37%;
+  color: #2d3c49;
+
+}
+
+.star{
+  width: 80.333%;
+  height: auto;
+  margin-left:10%;
+  color: #2d3c49;
+}
+
+.appW{
+margin-left:50%;
+color: #2d3c49;
+font-family: 'Raleway', sans-serif;
+}
+.bokeh{
+font-family: 'Raleway', sans-serif;
+}
+
+.sunf{
+  margin-left:29%;
+  color: #2d3c49;
+    font-family: 'Raleway', sans-serif;
+}
+.appl{
+  margin-left:50%;
+  color: #2d3c49;
+  font-family: 'Raleway', sans-serif;
+}
+
+.Bok{
+  margin-left: 25%;
+  font-family: 'Raleway', sans-serif;
+    color: #2d3c49;
+}
+.Sun{
+  margin-left: 35%;
+  font-family: 'Raleway', sans-serif;
+  color: #2d3c49;
+}
